@@ -1,0 +1,28 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+
+.user__container{
+    width: 30vw;
+    height: 30vh;
+    padding: 20px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 1px 2px 4px rgba(0,0,0,0.2),-1px -2px 4px rgba(0,0,0,0.2);
+    background:linear-gradient(90deg,aliceblue,lightblue);
+}
+
+.profile__picture{
+    height: 50px;
+    width: 50px;
+    border-radius:100%;
+   
+}
+
+.label{
+    font-size: 16px;
+    font-weight: bold;
+}
